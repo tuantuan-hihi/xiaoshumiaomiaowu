@@ -1,8 +1,8 @@
 # xiaoshumiaomiaowu
-欢迎来到小树妙妙屋
-我的 GitHub 收藏仓库简介
+# 欢迎来到小树妙妙屋
+# 我的 GitHub 收藏仓库简介
  
-以下是我收藏的几个 GitHub 仓库，它们在各自领域都极具价值，能为你提供不同方向的助力： 
+以下是我收藏的几个 GitHub 仓库，它们在各自领域都极具价值，能为你提供不同方向的助力：
 - SNBQT / Limited-Data-Rolling-Bearing-Fault-Diagnosis-with-Few-shot-Learning
 这是一篇关于滚动轴承故障诊断论文的对应代码库，采用小样本学习技术，在轴承故障数据有限的场景下实现故障诊断。对于从事机械故障诊断、小样本学习研究的开发者和科研人员，可借助它深入理解小样本学习在工业故障诊断中的应用，为相关算法开发和研究提供参考。
 - noteflakes / awesome-music
